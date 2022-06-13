@@ -1,5 +1,5 @@
 {
     "routes": {
-      "/**": "release-page.html"
+      "/*.html": "release-page.html"
     }
   }
