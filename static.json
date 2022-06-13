@@ -1,5 +1,8 @@
-{
+
+  {
+    "root": "/",
+    "clean_urls": false,
     "routes": {
-      "/*.html": "release-page.html"
+      "/**": "release-page.html"
     }
   }
